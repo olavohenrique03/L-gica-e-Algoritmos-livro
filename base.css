@@ -6,4 +6,12 @@
 }
 table {
     border: 1px solid #000;
+    
+}
+p {
+    font-size: 14px;
+
+}
+div {
+    background-color: #f00;
 }
