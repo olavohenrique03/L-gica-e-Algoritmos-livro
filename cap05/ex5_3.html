@@ -1,0 +1,24 @@
+ <!-- `while` pergunta primeiro  
+ `do...while` faz primeiro -->
+
+<script>
+    
+    let num;
+
+    do {  // Faça...  
+        num = Number(prompt("Informe um número: "))
+        
+        if (num === 0 || isNaN(num)) {
+            alert("Digite um número válido...")
+        }
+
+    } while (num === 0 || isNaN(num)) 
+        
+        let pares = `Pares entre 1 e ${num}: `
+        for (i = 2; i <= num; i = i + 2) {
+            pares = pares + i + ", "
+        }
+
+        alert(pares)
+    
+</script>

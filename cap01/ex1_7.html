@@ -1,0 +1,15 @@
+Entrada de dados: Valor do jantar
+Processamento de dados: Calcular Taxa de 10% e o valor final
+Saida de dados: Valor total final e a taxa do garçom
+
+
+<script>
+    const valor = Number(prompt("Qual o valor do jantar? "));
+    const taxa = valor * 0.10;
+
+    // const taxa = valor + (valor * 0.10);
+    // const taxa = valor * 1.10;
+
+    const valorTotal = taxa + valor;
+    alert(`A taxa do garçom ficou: ${taxa.toFixed(2)},\n e a valor total a ser pago: ${valorTotal.toFixed(2)}`);
+</script>
