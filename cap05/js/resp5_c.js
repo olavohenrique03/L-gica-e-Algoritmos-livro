@@ -23,6 +23,6 @@ frm.addEventListener("submit", (e) => {
     if (divisores === num) {
         resp2.innerText = `${num} É um Número Perfeito`;
     } else {
-        resp2.innerText = `${num} Não é um Número Perfeito`;
+        resp2.innerText = `${num} Não é um Número Perfeito`
     }
 })

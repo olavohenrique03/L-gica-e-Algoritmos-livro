@@ -1,0 +1,109 @@
+[33mcommit 0e21f7d29f8e08391dde08ee755b5f9b5c13d453[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: olavohenrique03 <olavo060103@gmail.com>
+Date:   Wed Jun 10 21:12:17 2026 -0300
+
+    exercise solutions resp5_c (cap 5 Finished)
+
+[33mcommit db0453ba062025aa2dbffed6f0b4a22b723ce84a[m
+Author: olavohenrique03 <olavo060103@gmail.com>
+Date:   Mon Jun 8 22:17:08 2026 -0300
+
+    exercise solutions resp5_b (cap 5)
+
+[33mcommit 706f5e4c909ec8b8c5787065eabef5d182fdce49[m
+Author: Olavin06 <11211100682@alunos.umc.br>
+Date:   Tue Jun 2 21:45:46 2026 -0300
+
+    exercise solutions ex5_10 and resp5_a (cap 5)
+
+[33mcommit 7df618541ca252fafa7713791297719a6acb28e1[m
+Author: Olavin06 <11211100682@alunos.umc.br>
+Date:   Mon Jun 1 18:00:59 2026 -0300
+
+    exercise: 9 cap: 5 (Repetition)
+
+[33mcommit fc413aefdd66d0e7df4d48d3f54979304d9592e7[m
+Author: Olavin06 <11211100682@alunos.umc.br>
+Date:   Tue May 19 21:28:59 2026 -0300
+
+    exercicios de logica e algoritmos em JS
+
+[33mcommit 56df2447f2d91dc220822626a82bc40627658874[m
+Merge: e11aee6 b71d800
+Author: olavo <olavohmp@icloud.com>
+Date:   Wed Nov 27 19:16:13 2024 -0300
+
+    merge nova funcionalidade
+
+[33mcommit b71d800332cd4d1e4de78eba9f06a5da40008d0b[m
+Author: olavo <olavohmp@icloud.com>
+Date:   Wed Nov 27 19:07:26 2024 -0300
+
+    add div
+
+[33mcommit e11aee62fd22ff57f0caa5d852999bceed9ea5dd[m
+Author: olavo <olavohmp@icloud.com>
+Date:   Wed Nov 27 19:04:52 2024 -0300
+
+    bug
+
+[33mcommit 790d92b258359647857ae327a8c32bca36f0e76a[m
+Author: olavo <olavohmp@icloud.com>
+Date:   Wed Nov 27 19:01:53 2024 -0300
+
+    add font-size to p´in base
+
+[33mcommit 5597e12b5e691f35cccd13440007a88b5a26eaf3[m
+Merge: 325d4e6 9769b01
+Author: olavo <olavohmp@icloud.com>
+Date:   Wed Nov 27 18:53:24 2024 -0300
+
+    so teste
+
+[33mcommit 9769b015809b3af0a126e106aebe4f7ec5317bc4[m
+Author: olavo <olavohmp@icloud.com>
+Date:   Wed Nov 27 18:50:12 2024 -0300
+
+    alteração
+
+[33mcommit 325d4e65eace0d6994cb96d51849dbf675a0878c[m
+Author: olavo <olavohmp@icloud.com>
+Date:   Wed Nov 27 17:29:19 2024 -0300
+
+    add Git ignore file
+
+[33mcommit 1a4535c8df1daf9ca6d6804137cef329b2d253e9[m
+Author: olavo <olavohmp@icloud.com>
+Date:   Wed Nov 27 17:23:54 2024 -0300
+
+    add gitignore
+
+[33mcommit eecf4b4984022f0d672f13b7b64281f623770676[m
+Author: olavo <olavohmp@icloud.com>
+Date:   Wed Nov 27 17:20:38 2024 -0300
+
+    add gitignore
+
+[33mcommit 9047c6fc3f29a9419b73621c8288f2feaa60d0d9[m
+Author: olavo <olavohmp@icloud.com>
+Date:   Wed Nov 27 17:14:23 2024 -0300
+
+    add teste.html 2 linhas
+
+[33mcommit 3bccd664a421b19aa225acecbf74d9a57088e89c[m
+Author: olavo <olavohmp@icloud.com>
+Date:   Wed Nov 27 17:07:19 2024 -0300
+
+    add base.css and teste.html
+
+[33mcommit 5a20edcc6ea143a72378767abafbfc22f7bb12f6[m
+Author: olavo <olavohmp@icloud.com>
+Date:   Wed Nov 27 16:56:41 2024 -0300
+
+    adicinar alteracao styles e teste
+
+[33mcommit 2edbaa2c17de28fd9d07a247b68e8afadebe99ec[m
+Author: olavo <olavohmp@icloud.com>
+Date:   Wed Nov 27 16:52:00 2024 -0300
+
+    creating initial files
